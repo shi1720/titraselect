@@ -1,2 +1,7 @@
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.633s
+
+OK
 Noiseless contrast signs checked: 55000
 Exhaustive finite-population coverage cases: 6273
