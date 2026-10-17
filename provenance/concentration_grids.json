@@ -1,0 +1,257 @@
+{
+  "6261a": {
+    "log10_concentrations": [
+      -7.05,
+      -7.55,
+      -8.05,
+      -8.55,
+      -9.05,
+      -9.55,
+      -10.05,
+      -10.55,
+      -11.05,
+      -11.55,
+      -12.05,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-6261a.ipynb"
+  },
+  "6261b": {
+    "log10_concentrations": [
+      -7.05,
+      -7.55,
+      -8.05,
+      -8.55,
+      -9.05,
+      -9.55,
+      -10.05,
+      -10.55,
+      -11.05,
+      -11.55,
+      -12.05,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-6261b.ipynb"
+  },
+  "6261c": {
+    "log10_concentrations": [
+      -7.05,
+      -7.55,
+      -8.05,
+      -8.55,
+      -9.05,
+      -9.55,
+      -10.05,
+      -10.55,
+      -11.05,
+      -11.55,
+      -12.05,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-6261c.ipynb"
+  },
+  "6261x": {
+    "log10_concentrations": [
+      -7.02,
+      -7.52,
+      -8.02,
+      -8.52,
+      -9.02,
+      -9.52,
+      -10.02,
+      -10.52,
+      -11.02,
+      -11.52,
+      -12.02,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-6261x.ipynb"
+  },
+  "6261y": {
+    "log10_concentrations": [
+      -7.02,
+      -7.52,
+      -8.02,
+      -8.52,
+      -9.02,
+      -9.52,
+      -10.02,
+      -10.52,
+      -11.02,
+      -11.52,
+      -12.02,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-6261y.ipynb"
+  },
+  "6261z": {
+    "log10_concentrations": [
+      -7.02,
+      -7.52,
+      -8.02,
+      -8.52,
+      -9.02,
+      -9.52,
+      -10.02,
+      -10.52,
+      -11.02,
+      -11.52,
+      -12.02,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-6261z.ipynb"
+  },
+  "9114a": {
+    "log10_concentrations": [
+      -7.05,
+      -7.55,
+      -8.05,
+      -8.55,
+      -9.05,
+      -9.55,
+      -10.05,
+      -10.55,
+      -11.05,
+      -11.55,
+      -12.05,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114a.ipynb"
+  },
+  "9114b": {
+    "log10_concentrations": [
+      -7.05,
+      -7.55,
+      -8.05,
+      -8.55,
+      -9.05,
+      -9.55,
+      -10.05,
+      -10.55,
+      -11.05,
+      -11.55,
+      -12.05,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114b.ipynb"
+  },
+  "9114c": {
+    "log10_concentrations": [
+      -7.05,
+      -7.55,
+      -8.05,
+      -8.55,
+      -9.05,
+      -9.55,
+      -10.05,
+      -10.55,
+      -11.05,
+      -11.55,
+      -12.05,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114c.ipynb"
+  },
+  "9114d": {
+    "log10_concentrations": [
+      -5.95,
+      -6.45,
+      -6.95,
+      -7.45,
+      -7.95,
+      -8.45,
+      -8.95,
+      -9.45,
+      -9.95,
+      -10.45,
+      -10.95,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114d.ipynb"
+  },
+  "9114e": {
+    "log10_concentrations": [
+      -5.95,
+      -6.45,
+      -6.95,
+      -7.45,
+      -7.95,
+      -8.45,
+      -8.95,
+      -9.45,
+      -9.95,
+      -10.45,
+      -10.95,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114e.ipynb"
+  },
+  "9114f": {
+    "log10_concentrations": [
+      -5.95,
+      -6.45,
+      -6.95,
+      -7.45,
+      -7.95,
+      -8.45,
+      -8.95,
+      -9.45,
+      -9.95,
+      -10.45,
+      -10.95,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114f.ipynb"
+  },
+  "9114g": {
+    "log10_concentrations": [
+      -5.87,
+      -6.37,
+      -6.87,
+      -7.37,
+      -7.87,
+      -8.37,
+      -8.87,
+      -9.37,
+      -9.87,
+      -10.37,
+      -10.87,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114g.ipynb"
+  },
+  "9114h": {
+    "log10_concentrations": [
+      -5.87,
+      -6.37,
+      -6.87,
+      -7.37,
+      -7.87,
+      -8.37,
+      -8.87,
+      -9.37,
+      -9.87,
+      -10.37,
+      -10.87,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114h.ipynb"
+  },
+  "9114i": {
+    "log10_concentrations": [
+      -5.87,
+      -6.37,
+      -6.87,
+      -7.37,
+      -7.87,
+      -8.37,
+      -8.87,
+      -9.37,
+      -9.87,
+      -10.37,
+      -10.87,
+      -14.0
+    ],
+    "source": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/Mean%20bin%20Kd%20inference%20with%20error-9114i.ipynb"
+  }
+}

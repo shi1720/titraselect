@@ -1,0 +1,158 @@
+\begin{thebibliography}{19}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adams et~al.(2016)Adams, Mora, Walczak, and Kinney]{adams2016}
+Rhys~M. Adams, Thierry Mora, Aleksandra~M. Walczak, and Justin~B. Kinney.
+\newblock Measuring the sequence-affinity landscape of antibodies with
+  massively parallel titration curves.
+\newblock \emph{eLife}, 5:\penalty0 e23156, 2016.
+\newblock \doi{10.7554/eLife.23156}.
+
+\bibitem[{Adaptyv Bio}(2026)]{adaptyv}
+{Adaptyv Bio}.
+\newblock Binding (includes expression), 2026.
+\newblock URL \url{https://www.adaptyvbio.com/services/binding}.
+\newblock Service documentation, accessed 17 October 2026.
+
+\bibitem[Gupta(2026)]{artifact}
+Shivam Gupta.
+\newblock {TitraSelect}: code, measured-data analyses, and reproducibility
+  artifact, 2026.
+\newblock URL \url{https://github.com/shi1720/titraselect}.
+
+\bibitem[Adams et~al.(2019)Adams, Kinney, Walczak, and Mora]{adams2019}
+Rhys~M. Adams, Justin~B. Kinney, Aleksandra~M. Walczak, and Thierry Mora.
+\newblock Epistasis in a fitness landscape defined by antibody-antigen binding
+  free energy.
+\newblock \emph{Cell Systems}, 8\penalty0 (1):\penalty0 86--93.e3, 2019.
+\newblock \doi{10.1016/j.cels.2018.12.004}.
+
+\bibitem[Phillips et~al.(2021)Phillips, Lawrence, Moulana, Dupic, Chang,
+  Johnson, Cvijovi{\'c}, Mora, Walczak, and Desai]{phillips2021}
+Angela~M. Phillips, Katherine~R. Lawrence, Alief Moulana, Thomas Dupic, Jeffrey
+  Chang, Milo~S. Johnson, Ivana Cvijovi{\'c}, Thierry Mora, Aleksandra~M.
+  Walczak, and Michael~M. Desai.
+\newblock Binding affinity landscapes constrain the evolution of broadly
+  neutralizing anti-influenza antibodies.
+\newblock \emph{eLife}, 10:\penalty0 e71393, 2021.
+\newblock \doi{10.7554/eLife.71393}.
+
+\bibitem[Phillips et~al.(2023)Phillips, Maurer, Brooks, Dupic, Schmidt, and
+  Desai]{phillips2023}
+Angela~M. Phillips, Daniel~P. Maurer, Caelan Brooks, Thomas Dupic, Aaron~G.
+  Schmidt, and Michael~M. Desai.
+\newblock Hierarchical sequence-affinity landscapes shape the evolution of
+  breadth in an anti-influenza receptor binding site antibody.
+\newblock \emph{eLife}, 12:\penalty0 e83628, 2023.
+\newblock \doi{10.7554/eLife.83628}.
+
+\bibitem[Dette and Wong(1999)]{dette1999}
+Holger Dette and Weng~Kee Wong.
+\newblock {E}-optimal designs for the {Michaelis--Menten} model.
+\newblock \emph{Statistics \& Probability Letters}, 44:\penalty0 405--408,
+  1999.
+\newblock \doi{10.1016/S0167-7152(99)00033-4}.
+
+\bibitem[Jiang et~al.(2025)Jiang, Yan, {Di Bernardo}, Sgrizzi, Villiger,
+  Kayabolen, Kim, Carscadden, Hiraizumi, Nishimasu, Gootenberg, and
+  Abudayyeh]{evolvepro}
+Kaiyi Jiang, Zhaoqing Yan, Matteo {Di Bernardo}, Samantha~R. Sgrizzi, Lukas
+  Villiger, Alisan Kayabolen, B.~J. Kim, Josephine~K. Carscadden, Masahiro
+  Hiraizumi, Hiroshi Nishimasu, Jonathan~S. Gootenberg, and Omar~O. Abudayyeh.
+\newblock Rapid in silico directed evolution by a protein language model with
+  {EVOLVEpro}.
+\newblock \emph{Science}, 387\penalty0 (6732):\penalty0 eadr6006, 2025.
+\newblock \doi{10.1126/science.adr6006}.
+
+\bibitem[Kmicikiewicz et~al.(2025)Kmicikiewicz, Fortuin, and
+  Szczurek]{prospero}
+Michal Kmicikiewicz, Vincent Fortuin, and Ewa Szczurek.
+\newblock {ProSpero}: Active learning for robust protein design beyond
+  wild-type neighborhoods.
+\newblock In \emph{Advances in Neural Information Processing Systems}, 2025.
+\newblock URL \url{https://openreview.net/forum?id=wSDE3karoF}.
+
+\bibitem[Greenman et~al.(2025)Greenman, Amini, and Yang]{greenman2025}
+Kevin~P. Greenman, Ava~P. Amini, and Kevin~K. Yang.
+\newblock Benchmarking uncertainty quantification for protein engineering.
+\newblock \emph{PLOS Computational Biology}, 21\penalty0 (1):\penalty0
+  e1012639, 2025.
+\newblock \doi{10.1371/journal.pcbi.1012639}.
+
+\bibitem[Bates et~al.(2021)Bates, Angelopoulos, Lei, Malik, and
+  Jordan]{bates2021}
+Stephen Bates, Anastasios Angelopoulos, Lihua Lei, Jitendra Malik, and
+  Michael~I. Jordan.
+\newblock Distribution-free, risk-controlling prediction sets.
+\newblock \emph{Journal of the ACM}, 68\penalty0 (6):\penalty0 43:1--43:34,
+  2021.
+\newblock \doi{10.1145/3478535}.
+
+\bibitem[Angelopoulos et~al.(2021)Angelopoulos, Bates, Cand{\`e}s, Jordan, and
+  Lei]{angelopoulos2021}
+Anastasios~N. Angelopoulos, Stephen Bates, Emmanuel~J. Cand{\`e}s, Michael~I.
+  Jordan, and Lihua Lei.
+\newblock Learn then test: Calibrating predictive algorithms to achieve risk
+  control.
+\newblock arXiv:2110.01052, 2021.
+\newblock URL \url{https://arxiv.org/abs/2110.01052}.
+
+\bibitem[Waudby-Smith and Ramdas(2020)]{waudby2020}
+Ian Waudby-Smith and Aaditya Ramdas.
+\newblock Confidence sequences for sampling without replacement.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~33, 2020.
+\newblock URL
+  \url{https://proceedings.neurips.cc/paper/2020/hash/e96c7de8f6390b1e6c71556e4e0a4959-Abstract.html}.
+
+\bibitem[Ding et~al.(2024)Ding, Luo, and Luo]{ding2024}
+Kerr Ding, Jiaqi Luo, and Yunan Luo.
+\newblock Leveraging conformal prediction to annotate enzyme function space
+  with limited false positives.
+\newblock \emph{PLOS Computational Biology}, 20\penalty0 (5):\penalty0
+  e1012135, 2024.
+\newblock \doi{10.1371/journal.pcbi.1012135}.
+
+\bibitem[Boger et~al.(2025)Boger, Chithrananda, Angelopoulos, Yoon, Jordan, and
+  Doudna]{boger2025}
+Ron~S. Boger, Seyone Chithrananda, Anastasios~N. Angelopoulos, Peter~H. Yoon,
+  Michael~I. Jordan, and Jennifer~A. Doudna.
+\newblock Functional protein mining with conformal guarantees.
+\newblock \emph{Nature Communications}, 16:\penalty0 85, 2025.
+\newblock \doi{10.1038/s41467-024-55676-y}.
+
+\bibitem[Fannjiang et~al.(2022)Fannjiang, Bates, Angelopoulos, Listgarten, and
+  Jordan]{fannjiang2022}
+Clara Fannjiang, Stephen Bates, Anastasios~N. Angelopoulos, Jennifer
+  Listgarten, and Michael~I. Jordan.
+\newblock Conformal prediction under feedback covariate shift for biomolecular
+  design.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 119\penalty0
+  (43):\penalty0 e2204569119, 2022.
+\newblock \doi{10.1073/pnas.2204569119}.
+
+\bibitem[{Absci}(2026)]{absci}
+{Absci}.
+\newblock Technology: Integrated drug creation platform, 2026.
+\newblock URL \url{https://www.absci.com/technology/}.
+\newblock Company technology description, accessed 17 October 2026.
+
+\bibitem[Jarmoskaite et~al.(2020)Jarmoskaite, AlSadhan, Vaidyanathan, and
+  Herschlag]{jarmoskaite2020}
+Inga Jarmoskaite, Ishraq AlSadhan, Pavanapuresan~P. Vaidyanathan, and Daniel
+  Herschlag.
+\newblock How to measure and evaluate binding affinities.
+\newblock \emph{eLife}, 9:\penalty0 e57264, 2020.
+\newblock \doi{10.7554/eLife.57264}.
+
+\bibitem[{Microsoft Research}(2026)]{quine}
+{Microsoft Research}.
+\newblock Quine: Accelerating how scientists explore biology, 2026.
+\newblock URL \url{https://microsoft.github.io/quine/index.html}.
+\newblock Program description, accessed 17 October 2026.
+
+\end{thebibliography}

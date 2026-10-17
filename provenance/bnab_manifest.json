@@ -1,0 +1,212 @@
+[
+  {
+    "path": "CR6261/Kd_meanbin/6261a_results/6261a_meanbins_errors.csv",
+    "file": "6261a_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261a_results/6261a_meanbins_errors.csv",
+    "sha256": "7adae2948f73470136f678fa46a8fd0d95a57deebccb23c355b5fb68715d3db2",
+    "bytes": 958242
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261a_results/6261a_kd_meanbin_err.csv",
+    "file": "6261a_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261a_results/6261a_kd_meanbin_err.csv",
+    "sha256": "758cb70341cbb9e56b489d5b96cf2ee0591c978242eecb6cb8a603e3c9d27aa1",
+    "bytes": 1138828
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261b_results/6261b_meanbins_errors.csv",
+    "file": "6261b_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261b_results/6261b_meanbins_errors.csv",
+    "sha256": "7fa08c2de43f3c25159221c6093414c3393b6fd1536f662a3a09c498dbc1e822",
+    "bytes": 954142
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261b_results/6261b_kd_meanbin_err.csv",
+    "file": "6261b_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261b_results/6261b_kd_meanbin_err.csv",
+    "sha256": "b35e0c010f39b6ba28923cc99c238f54bbcad0e81ab689736c322eb2319aae98",
+    "bytes": 1115250
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261c_results/6261c_meanbins_errors.csv",
+    "file": "6261c_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261c_results/6261c_meanbins_errors.csv",
+    "sha256": "f11a6aa34dee25a62e581daddb4d0d32b7b8b7495b304286a1997b56d38c4e20",
+    "bytes": 956309
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261c_results/6261c_kd_meanbin_err.csv",
+    "file": "6261c_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261c_results/6261c_kd_meanbin_err.csv",
+    "sha256": "c455bbc8693bd4ac4787de46fcf35912ac3f86e5b2577c9e5006157b9012b96f",
+    "bytes": 1119258
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261x_results/6261x_meanbins_errors.csv",
+    "file": "6261x_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261x_results/6261x_meanbins_errors.csv",
+    "sha256": "82abf7e3b61ce76cba5319e1a774312252ce4618b028e714771b1db362b18bdd",
+    "bytes": 958212
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261x_results/6261x_kd_meanbin_err.csv",
+    "file": "6261x_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261x_results/6261x_kd_meanbin_err.csv",
+    "sha256": "82e5b6ca44baf2aa8608ac34ae558d49bec00d76776d90650b8edb7d8627db28",
+    "bytes": 1125644
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261y_results/6261y_meanbins_errors.csv",
+    "file": "6261y_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261y_results/6261y_meanbins_errors.csv",
+    "sha256": "971ecd20b12436fb3ec0d448ac8e434ad48b0038f43a8e100a166b22b447cfbb",
+    "bytes": 957347
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261y_results/6261y_kd_meanbin_err.csv",
+    "file": "6261y_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261y_results/6261y_kd_meanbin_err.csv",
+    "sha256": "8188c9fbf9289c90822d7754be0e4d830182db289180c7e5094438ab36af6472",
+    "bytes": 1119975
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261z_results/6261z_meanbins_errors.csv",
+    "file": "6261z_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261z_results/6261z_meanbins_errors.csv",
+    "sha256": "cc06866d02479a530a5ec41e6caa0346f0aff6f9be0021442b89073fca1e89bf",
+    "bytes": 955397
+  },
+  {
+    "path": "CR6261/Kd_meanbin/6261z_results/6261z_kd_meanbin_err.csv",
+    "file": "6261z_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR6261/Kd_meanbin/6261z_results/6261z_kd_meanbin_err.csv",
+    "sha256": "979f39823c9207d863555fbd7c6680dea488edbd1c011af63e8083ef1c4920ef",
+    "bytes": 1102530
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114a_results/9114a_meanbins_errors.csv",
+    "file": "9114a_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114a_results/9114a_meanbins_errors.csv",
+    "sha256": "d9b2b86926ad96e3172969da70aeeb0e641bdc92be77638e981498548884a36d",
+    "bytes": 30899700
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114a_results/9114a_kd_meanbin_err.csv",
+    "file": "9114a_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114a_results/9114a_kd_meanbin_err.csv",
+    "sha256": "d4d72cde31f554ba558ef173278f3e5c24a1aef80660eaf7e01dd92080ba1d6b",
+    "bytes": 37081292
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114b_results/9114b_meanbins_errors.csv",
+    "file": "9114b_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114b_results/9114b_meanbins_errors.csv",
+    "sha256": "9004237694e923596745754825ca727efa5f1f8140d98c9ba521806092c7885c",
+    "bytes": 30900495
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114b_results/9114b_kd_meanbin_err.csv",
+    "file": "9114b_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114b_results/9114b_kd_meanbin_err.csv",
+    "sha256": "bc9143b3f473882870848ba9278bf675906e1706bb93d3e62a8248f09ed20f12",
+    "bytes": 37077911
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114c_results/9114c_meanbins_errors.csv",
+    "file": "9114c_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114c_results/9114c_meanbins_errors.csv",
+    "sha256": "a29c57d0b944010982b6844826dbe50c1bfa98f3f11d79af61aca41eab2a9e7e",
+    "bytes": 30912820
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114c_results/9114c_kd_meanbin_err.csv",
+    "file": "9114c_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114c_results/9114c_kd_meanbin_err.csv",
+    "sha256": "d4967bb8b5401454567942d4cc2fb72c96b5e454109f57cc48a65e3fb995b16b",
+    "bytes": 37095465
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114d_results/9114d_meanbins_errors.csv",
+    "file": "9114d_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114d_results/9114d_meanbins_errors.csv",
+    "sha256": "f6bbbff40f3d875532e8463992f2e396facbb440626df74dcaba2eb9601793dd",
+    "bytes": 31078804
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114d_results/9114d_kd_meanbin_err.csv",
+    "file": "9114d_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114d_results/9114d_kd_meanbin_err.csv",
+    "sha256": "ac2e6b79e070d9ea542a11b6a7c29613f12c63d7b8d18c65fb11a784e0eba49d",
+    "bytes": 37294701
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114e_results/9114e_meanbins_errors.csv",
+    "file": "9114e_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114e_results/9114e_meanbins_errors.csv",
+    "sha256": "4ad5e914c76e00f9020f1abc3252459fe3ed063ca0ee4f025ba60533d22cf67c",
+    "bytes": 31071506
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114e_results/9114e_kd_meanbin_err.csv",
+    "file": "9114e_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114e_results/9114e_kd_meanbin_err.csv",
+    "sha256": "a8079c9d65eed0b3a5a017e91afee29635b989239e182a350080417987c0321b",
+    "bytes": 37312136
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114f_results/9114f_meanbins_errors.csv",
+    "file": "9114f_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114f_results/9114f_meanbins_errors.csv",
+    "sha256": "51612ea3e62e01fb9fc78e13bc2ca2a16fa6c5d18c6635ba4ffbcaee70cf1e25",
+    "bytes": 31069924
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114f_results/9114f_kd_meanbin_err.csv",
+    "file": "9114f_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114f_results/9114f_kd_meanbin_err.csv",
+    "sha256": "96b54d52571082ee4e9e87f564f3b7d3ad96b7591a583969c2034b8ef6110168",
+    "bytes": 37215883
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114g_results/9114g_meanbins_errors.csv",
+    "file": "9114g_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114g_results/9114g_meanbins_errors.csv",
+    "sha256": "0192b70efd26bc8d48fc6deb0b80bc8aae83e4b9bd228eef741a4718c22c52aa",
+    "bytes": 31086275
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114g_results/9114g_kd_meanbin_err.csv",
+    "file": "9114g_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114g_results/9114g_kd_meanbin_err.csv",
+    "sha256": "9208ebd1d93c6e328fd933f0771f8aed5268cde010387d14d0393d879d19e7bc",
+    "bytes": 37331065
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114h_results/9114h_meanbins_errors.csv",
+    "file": "9114h_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114h_results/9114h_meanbins_errors.csv",
+    "sha256": "e6b448d5d7140eed47d9721b2238a95e5aef85de609f45427b0a873cd763686a",
+    "bytes": 31101004
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114h_results/9114h_kd_meanbin_err.csv",
+    "file": "9114h_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114h_results/9114h_kd_meanbin_err.csv",
+    "sha256": "193f6f2c67ce4e3ebbc4a35658bd994de4025e9706010c62181ec8825d47404a",
+    "bytes": 37350212
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114i_results/9114i_meanbins_errors.csv",
+    "file": "9114i_meanbins_errors.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114i_results/9114i_meanbins_errors.csv",
+    "sha256": "eceffddb79680f7855239e0b5691fd5e5476eeadb2090b107ba7e2a6e99189e3",
+    "bytes": 31080729
+  },
+  {
+    "path": "CR9114/Kd_meanbin/9114i_results/9114i_kd_meanbin_err.csv",
+    "file": "9114i_kd_meanbin_err.csv",
+    "url": "https://raw.githubusercontent.com/klawrence26/bnab-landscapes/514d62f387070f43b8a172f02e60c70137f8a8b8/CR9114/Kd_meanbin/9114i_results/9114i_kd_meanbin_err.csv",
+    "sha256": "f7ec8e186cdf43c3eafad671f33a3390359eec8a4b477ef3978393b6ab5e6edb",
+    "bytes": 37303108
+  }
+]

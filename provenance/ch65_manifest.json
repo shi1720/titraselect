@@ -1,0 +1,58 @@
+[
+  {
+    "path": "Kd_Inference/results_CH65/Kds/Kds_CH65a.tsv",
+    "file": "Kds_CH65a.tsv",
+    "url": "https://raw.githubusercontent.com/amphilli/CH65-comblib/cea336dfd05fa31d675f79038428bf7f0d177e78/Kd_Inference/results_CH65/Kds/Kds_CH65a.tsv",
+    "sha256": "849771cb92be84a093bbb64dbc1232c5076d1ab9a6b45416fe0679971a76c569",
+    "bytes": 34166532
+  },
+  {
+    "path": "Kd_Inference/results_CH65/Kds/Kds_CH65b.tsv",
+    "file": "Kds_CH65b.tsv",
+    "url": "https://raw.githubusercontent.com/amphilli/CH65-comblib/cea336dfd05fa31d675f79038428bf7f0d177e78/Kd_Inference/results_CH65/Kds/Kds_CH65b.tsv",
+    "sha256": "1264330471226277b836a6ee4b20eb616f2ef4ee73e0271ea5c1a7b09e937c94",
+    "bytes": 34403882
+  },
+  {
+    "path": "Kd_Inference/results_CH65/Kds/Kds_CH65d.tsv",
+    "file": "Kds_CH65d.tsv",
+    "url": "https://raw.githubusercontent.com/amphilli/CH65-comblib/cea336dfd05fa31d675f79038428bf7f0d177e78/Kd_Inference/results_CH65/Kds/Kds_CH65d.tsv",
+    "sha256": "0f15a017528dbc663f6b04557270b9a06daee78c9478f43c03652063b9a83693",
+    "bytes": 34640322
+  },
+  {
+    "path": "Kd_Inference/results_CH65/Kds/Kds_CH65e.tsv",
+    "file": "Kds_CH65e.tsv",
+    "url": "https://raw.githubusercontent.com/amphilli/CH65-comblib/cea336dfd05fa31d675f79038428bf7f0d177e78/Kd_Inference/results_CH65/Kds/Kds_CH65e.tsv",
+    "sha256": "6a6eed90e19fe39e96042a709511271452c1fa92ceb597c3c7d34c71146e96d0",
+    "bytes": 34679041
+  },
+  {
+    "path": "Kd_Inference/results_CH65/Kds/Kds_CH65g.tsv",
+    "file": "Kds_CH65g.tsv",
+    "url": "https://raw.githubusercontent.com/amphilli/CH65-comblib/cea336dfd05fa31d675f79038428bf7f0d177e78/Kd_Inference/results_CH65/Kds/Kds_CH65g.tsv",
+    "sha256": "4a7235734e78a9cfcb901a490b40ae4f3d27a7bec59428b91627c0ac364466d5",
+    "bytes": 32167652
+  },
+  {
+    "path": "Kd_Inference/results_CH65/Kds/Kds_CH65h.tsv",
+    "file": "Kds_CH65h.tsv",
+    "url": "https://raw.githubusercontent.com/amphilli/CH65-comblib/cea336dfd05fa31d675f79038428bf7f0d177e78/Kd_Inference/results_CH65/Kds/Kds_CH65h.tsv",
+    "sha256": "71e311a86431eeed76393ffd2fb081b4c3dfd3d76366885ff904684e80b27908",
+    "bytes": 32139248
+  },
+  {
+    "path": "Kd_Inference/metadata/sample_info.tsv",
+    "file": "sample_info.tsv",
+    "url": "https://raw.githubusercontent.com/amphilli/CH65-comblib/cea336dfd05fa31d675f79038428bf7f0d177e78/Kd_Inference/metadata/sample_info.tsv",
+    "sha256": "eab19aa219a467f051e78be29ab0b5eacbd8478e474839555b0b6c13ca57f5ea",
+    "bytes": 15090
+  },
+  {
+    "path": "Kd_Inference/results_CH65/Kds/Kds_CH65a_f3jrem.csv",
+    "file": "Kds_CH65a_f3jrem.csv",
+    "url": "https://raw.githubusercontent.com/amphilli/CH65-comblib/cea336dfd05fa31d675f79038428bf7f0d177e78/Kd_Inference/results_CH65/Kds/Kds_CH65a_f3jrem.csv",
+    "sha256": "3ca6bfaccbb96599cf54eb5898e0aee715aaaba97ed78c9bb326a10f2084c233",
+    "bytes": 20828936
+  }
+]

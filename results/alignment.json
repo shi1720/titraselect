@@ -1,0 +1,128 @@
+[
+  {
+    "task": "CR6261_H1",
+    "source": 0,
+    "curves": 1000,
+    "max_absolute_r2_difference": 3.3306690738754696e-16
+  },
+  {
+    "task": "CR6261_H1",
+    "source": 1,
+    "curves": 1000,
+    "max_absolute_r2_difference": 4.440892098500626e-16
+  },
+  {
+    "task": "CR6261_H1",
+    "source": 2,
+    "curves": 1000,
+    "max_absolute_r2_difference": 2.220446049250313e-16
+  },
+  {
+    "task": "CR6261_H9",
+    "source": 0,
+    "curves": 1000,
+    "max_absolute_r2_difference": 6.661338147750939e-16
+  },
+  {
+    "task": "CR6261_H9",
+    "source": 1,
+    "curves": 1000,
+    "max_absolute_r2_difference": 3.3306690738754696e-16
+  },
+  {
+    "task": "CR6261_H9",
+    "source": 2,
+    "curves": 1000,
+    "max_absolute_r2_difference": 3.3306690738754696e-16
+  },
+  {
+    "task": "CR9114_H1",
+    "source": 0,
+    "curves": 1000,
+    "max_absolute_r2_difference": 2.220446049250313e-16
+  },
+  {
+    "task": "CR9114_H1",
+    "source": 1,
+    "curves": 1000,
+    "max_absolute_r2_difference": 2.220446049250313e-16
+  },
+  {
+    "task": "CR9114_H1",
+    "source": 2,
+    "curves": 1000,
+    "max_absolute_r2_difference": 2.220446049250313e-16
+  },
+  {
+    "task": "CR9114_H3",
+    "source": 0,
+    "curves": 1000,
+    "max_absolute_r2_difference": 3.3306690738754696e-16
+  },
+  {
+    "task": "CR9114_H3",
+    "source": 1,
+    "curves": 1000,
+    "max_absolute_r2_difference": 4.440892098500626e-16
+  },
+  {
+    "task": "CR9114_H3",
+    "source": 2,
+    "curves": 1000,
+    "max_absolute_r2_difference": 2.220446049250313e-16
+  },
+  {
+    "task": "CR9114_FluB",
+    "source": 0,
+    "curves": 176,
+    "max_absolute_r2_difference": 3.3306690738754696e-16
+  },
+  {
+    "task": "CR9114_FluB",
+    "source": 1,
+    "curves": 124,
+    "max_absolute_r2_difference": 2.220446049250313e-16
+  },
+  {
+    "task": "CR9114_FluB",
+    "source": 2,
+    "curves": 175,
+    "max_absolute_r2_difference": 3.3306690738754696e-16
+  },
+  {
+    "task": "CH65_MA90",
+    "source": 0,
+    "curves": 1000,
+    "max_absolute_r2_difference": 5.452822637863619e-10
+  },
+  {
+    "task": "CH65_MA90",
+    "source": 1,
+    "curves": 1000,
+    "max_absolute_r2_difference": 2.220446049250313e-16
+  },
+  {
+    "task": "CH65_SI06",
+    "source": 0,
+    "curves": 1000,
+    "max_absolute_r2_difference": 4.440892098500626e-16
+  },
+  {
+    "task": "CH65_SI06",
+    "source": 1,
+    "curves": 1000,
+    "max_absolute_r2_difference": 3.3306690738754696e-16
+  },
+  {
+    "task": "CH65_G189E",
+    "source": 0,
+    "curves": 1000,
+    "max_absolute_r2_difference": 6.661338147750939e-16
+  },
+  {
+    "task": "CH65_G189E",
+    "source": 1,
+    "curves": 1000,
+    "max_absolute_r2_difference": 6.661338147750939e-16
+  }
+]
